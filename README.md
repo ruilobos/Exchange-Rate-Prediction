@@ -1,4 +1,4 @@
-# CrispDM_Data_Analysis
+# Exchange Rate Prediction Model
 
 ## Objective
 The purpose of this project is to follow the guidelines of the CRIP_DM to, through data mining tools, answer the following question: “Can we predict the euro exchange rate for the next day using the previous rates?”. The Foreign_Exchange_Rates.csv data set was used in this analysis.
